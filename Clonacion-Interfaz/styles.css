@@ -118,22 +118,22 @@ footer{
 }
 
 footer ul{
-    margin: 10px;
+    margin: 20px;
+    list-style: none;
     display: flex;
     padding-left: 0%;
     padding-right: 0%;
-    list-style: none;
 }
 
-footer .footer-left-side {
+footer .footer-left-side{
     justify-content: left;
 }
 
-footer .footer-right-side {
+footer .footer-right-side{
     justify-content: right;
 }
 
-footer ul li a {
+footer ul li a{
     margin: 10px;
     color: white;
 }
