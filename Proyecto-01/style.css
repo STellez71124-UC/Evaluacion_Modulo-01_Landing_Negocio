@@ -121,3 +121,28 @@ main{
     text-align: justify;
     width: 50%;
 }
+
+footer{
+    background-color: rgb(47, 51, 58);
+    overflow: hidden;
+}
+
+footer ul{
+    margin: 0;
+    padding: 2em;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+footer a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+
+footer a:hover{
+    font-size: x-large;
+    color: rgb(0, 215, 200);
+    font-weight: 300;
+}
