@@ -106,3 +106,18 @@ main{
     margin: 0;
     padding: 0;
 }
+
+.additional{
+    padding: 6em;
+    overflow: hidden;
+    background-color: rgb(47, 51, 58);
+    border-bottom: 6px solid black;
+}
+
+.text-block{
+    color: white;
+    font-size: x-large;
+    display: block;
+    text-align: justify;
+    width: 50%;
+}
